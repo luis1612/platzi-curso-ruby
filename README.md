@@ -1,0 +1,2 @@
+# platzi-curso-ruby
+Curso de Ruby Aprende lo esencial de Ruby, el lenguaje ideal para empezar a programar que muchas startups usan como base de sus plataformas. Conoce el entorno de desarrollo y las bases del lenguaje. Domina la programación orientada a objetos y empieza a abrir puertas en el mundo profesional.  Conocer la Programación Orientada a Objetos Crear un entorno de desarrollo Dominar las bases del lenguaje
